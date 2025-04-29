@@ -26,7 +26,3 @@ gcc -o social_network main.c
 
 - C99 veya üzeri bir C derleyicisi
 - Standart C kütüphaneleri (ekstra bağımlılık yok)
-
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
